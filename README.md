@@ -1,6 +1,6 @@
 # Waves_Lab_Experiment
 
-Waves project carried out in the Water Lab at TU Delft.
+Waves project carried out in the Hydraulic Engineering Lab at TU Delft.
 
 Aim of the project: observing the differences in energy dissipation for different wave conditions 
 and transfer to different frequencies. 
